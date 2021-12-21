@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
+</div>
 
 <!--
 **kwanik-kor/kwanik-kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
