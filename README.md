@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
+    <img src="./imgs/profileEditImg.png" />
 </div>
 
 <!--
