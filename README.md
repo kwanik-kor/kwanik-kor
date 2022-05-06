@@ -44,12 +44,12 @@
 
 <h2 align="center">Certificate</h2>
 
-|Certificate|Date|Organization|note|
+|Certificate|Date|Organization|Note|
 |:---:|:---:|:---:|:-----:|
-|SQL Developer<br>(SQLD)|2019.09.24|[한국데이터산업진흥원](https://www.kdata.or.kr/)|---------------------------|
-|Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|2019.03.15|[대한상공회의소](https://license.korcham.net/)|---------------------------|
-|Engineer Information Processing<br>(정보처리기사)|2019.03.14|[한국산업인력공단](https://www.hrdkorea.or.kr/)|---------------------------|
-|Craftsman Information Processing<br>(정보처리기능사)|2005.02.14|[한국산업인력공단](https://www.hrdkorea.or.kr/)|---------------------------|
+|SQL Developer<br>(SQLD)|2019.09.24|[한국데이터산업진흥원](https://www.kdata.or.kr/)|--------------------------------|
+|Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|2019.03.15|[대한상공회의소](https://license.korcham.net/)|--------------------------------|
+|Engineer Information Processing<br>(정보처리기사)|2019.03.14|[한국산업인력공단](https://www.hrdkorea.or.kr/)|--------------------------------|
+|Craftsman Information Processing<br>(정보처리기능사)|2005.02.14|[한국산업인력공단](https://www.hrdkorea.or.kr/)|--------------------------------|
 
 <h2 align="center">GitHub Card</h2>
 <p align="center">
