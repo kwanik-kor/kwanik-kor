@@ -1,6 +1,46 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=KwanIk%20Jang&fontSize=70&fontColor=EEEEEE&animation=twinkling&descAlign=10)
+<br>
+<h2 align="center">About me</h2>
+<p align="center">
+    <a href="https://github.com/kwanik-kor">
+        <img src="http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+    </a>
+    <a href="https://www.linkedin.com/in/kwanik-jang-2b9802160/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:kwanigi2005@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
+    <br>
+    <span>(Blog is now on preparing!!)</span>
+</p>
+
+<h2 align="center">Skills</h2>
 <div align="center">
-    <img src="./imgs/profileEditImg.png" />
+    <div style="margin-bottom: 3px;">
+        <p style="margin-bottom: 5px;"><strong>Language</strong></p>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    </div>
+    <div style="margin-bottom: 3px;">
+        <p style="margin-bottom: 5px;"><strong>Framework</strong></p>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+    </div>
+    <div style="margin-bottom: 3px;">
+        <p style="margin-bottom: 5px;"><strong>Database</strong></p>
+        <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+    </div>
+    <div style="margin-bottom: 3px;">
+        <p style="margin-bottom: 5px;"><strong>Studying</strong></p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>
+    </div>
 </div>
+
 
 ### Cards
 ![KwanIk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwanik-kor&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
