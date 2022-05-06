@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=KwanIk%20Jang&fontSize=70&fontColor=EEEEEE&animation=twinkling&descAlign=10)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KwanIk%20Jang&fontSize=70&fontColor=EEEEEE&animation=twinkling&descAlign=10)
 <br>
 <h2 align="center">About me</h2>
 <p align="center">
+    <br>
     <a href="https://github.com/kwanik-kor">
         <img src="http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
     </a>
@@ -41,11 +42,29 @@
     </div>
 </div>
 
+<h2 align="center">Certificate</h2>
 
-### Cards
-![KwanIk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwanik-kor&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+|Certificate|Date|Organization|
+|:---:|:---:|:---:|
+|SQL Developer<br>(SQLD)|2019.09.24|[한국데이터산업진흥원](https://www.kdata.or.kr/)|
+|Computer Specialist in Spreadsheet & Database Level-1<br>(컴퓨터활용능력 1급)|2019.03.15|[대한상공회의소](https://license.korcham.net/)|
+|Engineer Information Processing<br>(정보처리기사)|2019.03.14|[한국산업인력공단](https://www.hrdkorea.or.kr/)|
+|Craftsman Information Processing<br>(정보처리기능사)|2005.02.14|[한국산업인력공단](https://www.hrdkorea.or.kr/)|
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhksdlr134)](https://solved.ac/rhksdlr134)
+
+<h2 align="center">GitHub Card</h2>
+<p align="center">
+    <a href="https://github.com/kwanik-kor/">
+        <img src="https://github-readme-stats.vercel.app/api?username=kwanik-kor&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+    </a>
+</p>
+
+<h2 align="center">PS Card</h2>
+<p align="center">
+    <a href="https://solved.ac/profile/rhksdlr134">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhksdlr134"``>
+    </a>
+</p>
 
 
 <!--
