@@ -15,6 +15,13 @@
     <a href="https://kwanik.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white"/>
     </a>
+    <br>
+    <a href="https://audioclip.naver.com/channels/6358">
+        <img src="https://img.shields.io/badge/AudioClip-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+    </a>
+    <a href="https://podcasts.apple.com/kr/podcast/%EC%9E%87%EC%87%BC%EB%8B%88-%EC%9D%BC%EB%B3%B8%EC%96%B4/id1544618621">
+        <img src="https://img.shields.io/badge/PodCast-9933CC?style=flat-square&logo=ApplePodcasts&logoColor=white"/>
+    </a>
 </p>
 
 <h2 align="center">Skills</h2>
