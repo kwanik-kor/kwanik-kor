@@ -12,8 +12,9 @@
     <a href="mailto:kwanigi2005@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
-    <br>
-    <span>(Blog is now on preparing!!)</span>
+    <a href="https://kwanik.tistory.com/>
+        <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+    </a>
 </p>
 
 <h2 align="center">Skills</h2>
