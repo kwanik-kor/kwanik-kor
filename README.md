@@ -1,8 +1,8 @@
 <div align="right">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kwanik-jang-2b9802160/)](https://www.linkedin.com/in/kwanik-jang-2b9802160/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kwanigi2005@gmail.com)](mailto:kwanigi2005@gmail.com)
-  [![Blog Badge](https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white&link=https://www.kwanik.tistory.com/)](https://www.kwanik.tistory.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kwanik-jang/)](https://www.linkedin.com/in/kwanik-jang/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhksdlr134@naver.com)](mailto:rhksdlr134@naver.com)
+  [![Blog Badge](https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white&link=https://kwanik.tistory.com/)](https://kwanik.tistory.com)
   [![Potcast Badge](https://img.shields.io/badge/PodCast-9933CC?style=flat-square&logo=ApplePodcasts&logoColor=white&link=https://podcasts.apple.com/kr/podcast/%EC%9E%87%EC%87%BC%EB%8B%88-%EC%9D%BC%EB%B3%B8%EC%96%B4/id1544618621/)](https://podcasts.apple.com/kr/podcast/%EC%9E%87%EC%87%BC%EB%8B%88-%EC%9D%BC%EB%B3%B8%EC%96%B4/id1544618621)
   ![Visitor Count](https://komarev.com/ghpvc/?username=kwanik-kor&label=Visitor&color=0D1117&style=flat-square)
 </div>
